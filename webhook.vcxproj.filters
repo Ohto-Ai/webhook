@@ -26,5 +26,8 @@
     <ClInclude Include="ohtoai\string_tools.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ChaiServer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
